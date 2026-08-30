@@ -1,0 +1,10 @@
+x=int(input("Enter the first no :"))
+y =int(input("Enter the second no :"))
+sum = x + y
+sub = x-y
+multi = x*y
+div=x/y
+print(f"sum={sum}")
+print(f"sub={sub}")
+print(f"multi={multi}")
+print(f"div={div}")
